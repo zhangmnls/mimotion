@@ -65,6 +65,6 @@
 
 [![](https://i.loli.net/2021/11/19/BLi5cpjPSxh7Am2.png)](https://i.loli.net/2021/11/19/BLi5cpjPSxh7Am2.png)
 
-## 历史Star数
+## 历史Star
 
 [![Stargazers over time](https://starchart.cc/577fkj/mimotion.svg)](https://starchart.cc/577fkj/mimotion)
